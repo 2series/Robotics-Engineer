@@ -1,6 +1,4 @@
-[![Udacity Robotics Nanodegree](http://tugan0329.bitbucket.io/imgs/github/robond.svg)](https://www.udacity.com/robotics)
-
-![](https://media.giphy.com/media/eexxV3Q2N485XZO0VS/giphy.gif)
+![](https://media.giphy.com/media/N1nnU8DBZrgje/giphy.gif)
 
 Projects
 
@@ -10,17 +8,17 @@ Projects
 
 3 - [Follow Me](https://github.com/2series/Robotics-Engineer/tree/master/Project%203%20-%20Follow%20Me)
 
-4 - [Home Services Robot]()
+4 - [Home Services Robot](https://github.com/2series/Robotics-Engineer/tree/master/Project%204%20-%20Home%20Services%20Robot)
 
-5 - [Map My World]()
+5 - [Map My World](https://github.com/2series/Robotics-Engineer/tree/master/Project%205%20-%20Map%20My%20World)
 
-6 - [Pick And Place]()
+6 - [Pick And Place](https://github.com/2series/Robotics-Engineer/tree/master/Project%206%20-%20Pick%20And%20Place)
 
-7 - [Robotics Inference]()
+7 - [Robotics Inference](https://github.com/2series/Robotics-Engineer/tree/master/Project%207%20-%20Robotics%20Inference)
 
-8 - [Search And Return]()
+8 - [Search And Return](https://github.com/2series/Robotics-Engineer/tree/master/Project%208%20-%20Search%20And%20Return)
 
-9 - [Where Am I]()
+9 - [Where Am I](https://github.com/2series/Robotics-Engineer/tree/master/Project%209%20-%20Where%20Am%20I)
 
 ### Environment Setup
 Make sure you have Anaconda installed. Then, run `conda env create -f environment.yml` to install all necessary packages needed for all my projects.
