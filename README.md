@@ -4,11 +4,11 @@
 
 Projects
 
-1 - [3D Perception]()
+1 - [3D Perception](https://github.com/2series/Robotics-Engineer/tree/master/Project%201%20-%203D%20Perception)
 
-2 - [Deep RI Manipulator]()
+2 - [Deep RI Manipulator](https://github.com/2series/Robotics-Engineer/tree/master/Project%202%20-%20Deep%20Rl%20Manipulator)
 
-3 - [Follow Me]()
+3 - [Follow Me](https://github.com/2series/Robotics-Engineer/tree/master/Project%203%20-%20Follow%20Me)
 
 4 - [Home Services Robot]()
 
